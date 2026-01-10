@@ -1,3 +1,10 @@
+### Important Notice
+
+Development moved to https://github.com/raster-atari-org/RASTER-Music-Tracker \
+Repository archived to avoid further confusion with ownership.\
+Experimental work in progress could still be referenced through the commit history.\
+Sorry about that.
+
 ************************************************************************
 RASTER MUSIC TRACKER - RMT\
 By Radek Štěrba, Raster/C.P.U., 2002-2009\
@@ -121,3 +128,4 @@ All the active "Atariarea" Polish Atarians (http://atariarea.krap.pl)<br>
 ...and other 8bit Atarians all over the world! :-)
 
 TODO: Update README.md to reflect all the changes done since version 1.28
+
